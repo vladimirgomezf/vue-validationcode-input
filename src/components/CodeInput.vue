@@ -26,7 +26,6 @@
           v-on:keydown="onKeyDown"
           :disabled="disabled"
           :required="required"
-          maxlength="1"
         />
       </template>
     </div>
