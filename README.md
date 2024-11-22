@@ -1,19 +1,11 @@
-# vue-verification-code-input
+# vue-validationcode-input
 
 > 🎉A verification code input
-
-[![NPM](https://img.shields.io/npm/v/vue-verification-code-input.svg)](https://www.npmjs.com/package/vue-verification-code-input) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-
-[![NPM](https://nodei.co/npm/vue-verification-code-input.png)](https://nodei.co/npm/vue-verification-code-input/)
-
-## Live demo
-
-- [Demo](https://suweya.github.io/vue-verification-code-input/index.html)
 
 ## Install
 
 ```bash
-npm install --save vue-verification-code-input
+npm install --save vue-validationcode-input
 ```
 
 ## Usage
@@ -26,7 +18,7 @@ npm install --save vue-verification-code-input
 </template>
 
 <script>
-import CodeInput from "vue-verification-code-input";
+import CodeInput from "vue-validationcode-input";
 
 export default {
   name: "app",
@@ -63,4 +55,4 @@ export default {
 
 ## License
 
-MIT © [suweya](https://github.com/suweya)
+MIT
